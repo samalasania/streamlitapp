@@ -43,7 +43,6 @@ with st.container():
 		"""
 		)
 		st.write("[Reference >](https://ai4bharat.iitm.ac.in)")
-import streamlit as st
 from indic_transliteration import sanscript
 from indic_transliteration.sanscript import transliterate
 from googletrans import Translator
